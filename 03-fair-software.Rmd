@@ -1,0 +1,11 @@
+# (PART) FAIR Software {-}
+
+# Repository {-}
+
+# License {-}
+
+# Registry {-}
+
+# Citation {-}
+
+# Checklist {-}

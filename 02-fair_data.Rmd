@@ -1,0 +1,9 @@
+# (PART) FAIR Data {-}
+
+# Findability {-}
+
+# Accessibility {-}
+
+# Interoperability {-}
+
+# Reusability {-}
